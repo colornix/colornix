@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning rnn
 - 💞️ I’m looking to collaborate on antivirus
 - 📫 How to reach me colornix at hotmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Xiazhen
+- ⚡ Fun fact: coding, basketball, reading, movies.
 
 <!---
 colornix/colornix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
